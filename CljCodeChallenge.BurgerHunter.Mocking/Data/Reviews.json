@@ -1,0 +1,72 @@
+﻿[
+	{
+		"Id": "0a0c8b0c-6e7c-4fbf-9da1-850e2048a093",
+		"Summary": "Surprisingly average",
+		"Content": "I'm surprised how average this burger is.",
+		"Rating": {
+			"Taste": 3,
+			"Texture": 3,
+			"Presentation": 3
+		},
+		"BurgerName": "A normal burger",
+		"ReviewerEmail": "burgerfan1337@emailprovider.io",
+		"TimeStamp": "2021-10-24T14:47:44.4323918+00:00",
+		"StoreId": "1a121c11-babb-40cf-b445-7ab8cc6ad5ea"
+	},
+	{
+		"Id": "b3f26960-7d46-4b07-8a0f-2ecd8aca2545",
+		"Summary": "didn't really want it, but ate it anyway",
+		"Content": "...and it was kinda ok",
+		"Rating": {
+			"Taste": 3,
+			"Texture": 3,
+			"Presentation": 3
+		},
+		"BurgerName": "A normal burger",
+		"ReviewerEmail": "unamusedpanda@emailprovider.io",
+		"TimeStamp": "2021-10-24T14:47:44.4323918+00:00",
+		"StoreId": "1a121c11-babb-40cf-b445-7ab8cc6ad5ea"
+	},
+	{
+		"Id": "7c19787f-1019-4c94-b2eb-b8f4daa5010e",
+		"Summary": "Nice place",
+		"Content": "It was nice. I liked the charcoal-color of the bun",
+		"Rating": {
+			"Taste": 3,
+			"Texture": 3,
+			"Presentation": 4
+		},
+		"BurgerName": "A normal burger",
+		"ReviewerEmail": "britney4life@emailprovider.io",
+		"TimeStamp": "2021-10-24T14:47:44.4323918+00:00",
+		"StoreId": "1a121c11-babb-40cf-b445-7ab8cc6ad5ea"
+	},
+	{
+		"Id": "9fdb3687-8ed6-452f-afb6-17feb898d6c7",
+		"Summary": "Will come prepared next time",
+		"Content": "Super delicious and greasy burger! Will definately come back once my helath insurance is back in order!",
+		"Rating": {
+			"Taste": 5,
+			"Texture": 5,
+			"Presentation": 3
+		},
+		"BurgerName": "CalorieCarnival3000",
+		"ReviewerEmail": "mmmfood@emailprovider.io",
+		"TimeStamp": "2021-10-24T14:47:44.4323918+00:00",
+		"StoreId": "fa5b2d0f-db98-4f41-82aa-c851d391c772"
+	},
+	{
+		"Id": "f0daaa75-2497-4f09-a831-f696499ffd97",
+		"Summary": "A bit disappointed",
+		"Content": "Burger was ok, but I just could'nt taste the calorie flavor very well.",
+		"Rating": {
+			"Taste": 2,
+			"Texture": 3,
+			"Presentation": 5
+		},
+		"BurgerName": "CalorieCarnival3000",
+		"ReviewerEmail": "mmmfood2@emailprovider.io",
+		"TimeStamp": "2021-10-24T14:47:44.4323918+00:00",
+		"StoreId": "fa5b2d0f-db98-4f41-82aa-c851d391c772"
+	}
+]

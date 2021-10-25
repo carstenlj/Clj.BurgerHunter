@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CljCodeChallenge.BurgerHunter.Core", "CljCodeChallenge.BurgerHunter.Core\CljCodeChallenge.BurgerHunter.Core.csproj", "{12E653CE-3E70-4752-AF9D-CFD79BCF9387}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CljCodeChallenge.BurgerHunter.Web.Api", "CljCodeChallenge.BurgerHunter.Web.Api\CljCodeChallenge.BurgerHunter.Web.Api.csproj", "{DC93E943-8390-4ABC-9D63-9AC7625EB717}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CljCodeChallenge.BurgerHunter.Mocking", "CljCodeChallenge.BurgerHunter.Mocking\CljCodeChallenge.BurgerHunter.Mocking.csproj", "{21E06D1A-23A4-404A-BAE0-715691D6F7DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CljCodeChallenge.BurgerHunter.Tests", "CljCodeChallenge.BurgerHunter.Tests\CljCodeChallenge.BurgerHunter.Tests.csproj", "{509379EE-168A-44D9-A97B-2B5BAA93ACDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23CE0B26-E298-4F7D-84A0-6AFE7E653428}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E653CE-3E70-4752-AF9D-CFD79BCF9387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E653CE-3E70-4752-AF9D-CFD79BCF9387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E653CE-3E70-4752-AF9D-CFD79BCF9387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E653CE-3E70-4752-AF9D-CFD79BCF9387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC93E943-8390-4ABC-9D63-9AC7625EB717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC93E943-8390-4ABC-9D63-9AC7625EB717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC93E943-8390-4ABC-9D63-9AC7625EB717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC93E943-8390-4ABC-9D63-9AC7625EB717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E06D1A-23A4-404A-BAE0-715691D6F7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E06D1A-23A4-404A-BAE0-715691D6F7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E06D1A-23A4-404A-BAE0-715691D6F7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E06D1A-23A4-404A-BAE0-715691D6F7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509379EE-168A-44D9-A97B-2B5BAA93ACDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509379EE-168A-44D9-A97B-2B5BAA93ACDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509379EE-168A-44D9-A97B-2B5BAA93ACDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509379EE-168A-44D9-A97B-2B5BAA93ACDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A3028F-25D6-47ED-A0DA-55F4D3BE44AD}
+	EndGlobalSection
+EndGlobal

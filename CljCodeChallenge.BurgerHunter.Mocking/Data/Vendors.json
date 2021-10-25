@@ -1,0 +1,22 @@
+﻿[
+	{
+		"Id": "fa5b2d0f-db98-4f41-82aa-c851d391c772",
+		"Name": "OmniBurger",
+		"Description": "Global burger-coverage 24/7",
+		"Address": "Everywhere",
+		"GeoCoords": {
+			"Lattitude": 0.0,
+			"Longitude": 0.0
+		}
+	},
+	{
+		"Id": "1a121c11-babb-40cf-b445-7ab8cc6ad5ea",
+		"Name": "Mediocre Burger",
+		"Description": "The burgers that nobody wants, but everybody eats",
+		"Address": "Larry's gararage",
+		"GeoCoords": {
+			"Lattitude": 0.0,
+			"Longitude": 0.0
+		}
+	}
+]
